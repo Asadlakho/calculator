@@ -20,3 +20,6 @@ This project performs basic arithmetic operations with a clean and modern UI.
 .CSS3 / Tailwind CSS
 
 .JavaScript (Event Handling & DOM Manipulation)
+
+🚀 Live Demo :
+🔗 https://asadlakho.github.io/calculator/
